@@ -1,5 +1,10 @@
 # User Authentication System  
 
+User
+1] admin - admin123
+2] pratik - pratik123
+3] EmbedSquare  embed123
+
 ## 📌 Overview  
 This project is a **User Authentication System** built with **React.js, Redux, and Context API**. It allows users to register, log in, view their profile, and manage tasks in a dashboard.  
 
