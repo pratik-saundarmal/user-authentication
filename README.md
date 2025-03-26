@@ -19,4 +19,11 @@ This project is a **User Authentication System** built with **React.js, Redux, a
 - **UI Styling:** CSS, React Icons  
 - **Version Control:** Git & GitHub  
 
-## 📂 Folder Structure  
+ login page 
+ <img width="924" alt="image" src="https://github.com/user-attachments/assets/9e1fd23b-adfe-4ef5-9570-5bae2dbc3911" />
+ dashbord
+ <img width="932" alt="image" src="https://github.com/user-attachments/assets/bf15b00a-fc7e-4308-b74c-127d06c67edc" />
+
+ 
+ 
+
